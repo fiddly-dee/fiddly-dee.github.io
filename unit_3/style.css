@@ -1,0 +1,12 @@
+body {
+	background-image: url("images/Lady.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: "Helvetica"
+}
+h1 {
+	text-decoration: underline;
+}
+#slogan {
+	font-style: italic;
+}
